@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Flight Planner:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Flight_Planner_jar</output-path>
+    <root id="archive" name="Flight Planner.jar">
+      <element id="module-output" name="Flight Planner" />
+    </root>
+  </artifact>
+</component>
